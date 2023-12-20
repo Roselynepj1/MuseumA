@@ -1,6 +1,6 @@
 # Community Science Museum
 
-![Community Science Museum](https://picsum.photos/450/200)
+![Community Science Museum](https://github.com/Roselynepj1/MuseumA/blob/master/images/community_science_museum.png)
 
 ## Overview
 
